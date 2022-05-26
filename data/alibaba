@@ -1,23 +1,23 @@
 # All .alibaba domains
-alibaba
+#alibaba
 
 # All .alipay domains
-alipay
+#alipay
 
 # All .taobao domains
-taobao
+#taobao
 
 # All .tmall domains
-tmall
+#tmall
 
-include:alibaba-ads
-include:alibabacloud
-include:aliyun
-include:dingtalk
-include:eleme
-include:teambition
-include:uc
-include:umeng
+#include:alibaba-ads
+#include:alibabacloud
+#include:aliyun
+#include:dingtalk
+#include:eleme
+#include:teambition
+#include:uc
+#include:umeng
 
 25pp.com
 56che.com
